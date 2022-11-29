@@ -15,3 +15,5 @@
 >>>>>>> 6ab4994 (попытка пуша)
 
 Smithjan is the best developer ever. I SAID EVER!
+
+Новая ветка, попытка все сделать красиво

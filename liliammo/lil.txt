@@ -1,2 +1,8 @@
 liliammo_first_commit
+<<<<<<< HEAD
 smithjan был тут
+=======
+vacok
+vacok
+vacok
+>>>>>>> 4190147 (error1)
